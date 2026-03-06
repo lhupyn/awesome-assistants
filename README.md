@@ -38,7 +38,7 @@ Edit `assistants.yaml` and run `make` to generate files. Read [contribution guid
 
 [//]: # (START-contents)
 
-Total assistants: **240** 
+Total assistants: **241** 
 
 1. [👩🏼‍🎓 General Assistant](#assistant)
 1. [🎯 Marketing Assistant](#marketing-assistant)
@@ -280,6 +280,7 @@ Total assistants: **240**
 1. [🧙 Open Source License Lawyer](#open-source-license-lawyer)
 1. [🎱 Magic 8 Ball](#magic-8-ball)
 1. [⌨️ Code GPT](#code-gpt)
+1. [🎥 DoaCam](#doacam)
 
  ### General Assistant
 
@@ -3775,6 +3776,21 @@ You can only give one reply for each conversation turn.
 
 [↑ Go Back](#assistants)
 
+
+
+  ### DoaCam
+
+🎥 Real-time 3D AI avatar you can video call.
+
+Voice conversations powered by Google Gemini with computer vision, lip-synced animation, and persistent memory. Free, no sign-up.
+
+🔗 [doacam.com](https://doacam.com)
+
+```
+DoaCam is a real-time 3D AI avatar SDK. It enables voice and vision conversations powered by
+Google Gemini with computer vision, lip-synced animation, and persistent memory.
+The 3D avatar is the interface - visual fluidity over text.
+```
 
 [//]: # (END-contents)
 
